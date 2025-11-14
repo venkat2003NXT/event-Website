@@ -1,0 +1,29 @@
+[
+  {
+    "id": "101",
+    "eventName": "Startup Summit",
+    "cityName": "Pune",
+    "date": "2025-01-20",
+    "weather": "23°C",
+    "distanceKm": "8 Km",
+    "imageUrl": "https://picsum.photos/400?random=5"
+  },
+  {
+    "id": "102",
+    "eventName": "Stand-up Comedy Night",
+    "cityName": "Hyderabad",
+    "date": "2025-02-05",
+    "weather": "29°C",
+    "distanceKm": "9 Km",
+    "imageUrl": "https://picsum.photos/400?random=6"
+  },
+  {
+    "id": "103",
+    "eventName": "Coding Hackathon",
+    "cityName": "Chennai",
+    "date": "2025-03-10",
+    "weather": "31°C",
+    "distanceKm": "4 Km",
+    "imageUrl": "https://picsum.photos/400?random=7"
+  }
+]
